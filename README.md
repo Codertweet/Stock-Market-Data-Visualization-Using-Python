@@ -68,7 +68,8 @@ The dataset consists of daily stock information for companies in the NIFTY-50 in
 -----------
 - **Task 6:** Calculate and Plot SMA (Simple Moving Average) for 10 and 20 Days  
 - **Task 7:** Calculate Autocorrelation for Stock Prices  
-- **Task 8:** Create a Heatmap for Feature Correlation  
+- **Task 8:** Create a Heatmap for Feature Correlation
+- **Task 9:** Completed
 
 
 
